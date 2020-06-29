@@ -9,5 +9,5 @@ require (
 	golang.org/x/mod v0.3.0 // indirect
 	golang.org/x/net v0.0.0-20200625001655-4c5254603344 // indirect
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208 // indirect
-	golang.org/x/tools v0.0.0-20200626032829-bcbc01e07a20 // indirect
+	golang.org/x/tools v0.0.0-20200626171337-aa94e735be7f // indirect
 )
